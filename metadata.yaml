@@ -1,0 +1,24 @@
+_repo: Die-alte-Krone-Ein-Roman-aus-dem-Spreewald_51722
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keller, Paul
+    birthdate: 1873
+    deathdate: 1932
+    gutenberg_agent_id: '33597'
+    url: http://www.gutenberg.org/2009/agents/33597
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51722'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Die alte Krone: Ein Roman aus dem Spreewald'
+url: http://www.gutenberg.org/ebooks/51722
